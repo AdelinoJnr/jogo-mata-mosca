@@ -20,7 +20,7 @@
 
 # 🎮 GitPage
 
-<a style="font-size: 18px" href="https://adelinojnr.github.io/jogo-mata-mosca/index.html">Clica aqui para jogar</a>
+<a style="font-size: 18px" href="https://adelinojnr.github.io/jogo-mata-mosca/Index.html">Clica aqui para jogar</a>
 
 <br>
 
