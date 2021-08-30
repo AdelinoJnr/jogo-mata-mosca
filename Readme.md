@@ -20,7 +20,6 @@
 
 # 🎮 GitPage
 
-<p>Versão Mobile 👇🏻</p>
 <a style="font-size: 18px" href="https://adelinojnr.github.io/jogo-mata-mosca/Index.html">Clica aqui para jogar</a>
 
 <br>
